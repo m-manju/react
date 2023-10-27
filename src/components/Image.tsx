@@ -1,4 +1,5 @@
 import a1 from '../images/a1.jpg';
+
 function Image() {
   return (
     <>

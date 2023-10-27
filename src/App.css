@@ -16,7 +16,7 @@ body{
   width: 20vw;
   display: flex;
   flex-direction: column;
-  background-color: rgb(244, 224, 197);
+  background-color: rgb(228, 209, 185);
   border-radius: 5%;
 }
 .list-group li{

@@ -7,6 +7,8 @@ function Image() {
     <div className='imgDiv'>
       <img src={a1}  alt="Image 1" className='image1' />
       <img src={a1}  alt="Image 1" className='image1' />
+      <img src={a1}  alt="Image 1" className='image1' />
+      <img src={a1}  alt="Image 1" className='image1' />
     </div>
     </>
   );

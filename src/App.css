@@ -34,7 +34,8 @@ body{
   flex-wrap: wrap;
 }
 img{
-  width: 50vh;
+  width: 25vh;
+  padding: 10px;
 }
 .formDiv{ 
   display: flex;

@@ -1,4 +1,6 @@
-function ListGroup() {
+import React from "react";
+
+const ListGroup:React.FC=() => {
     const items1 =['book1','book2','book3','book4','book5','book6'];
     const items2 =['book7','book8','book9','book10','book11','book12'];
 

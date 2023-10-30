@@ -1,6 +1,7 @@
+import React from 'react';
 import a1 from '../images/a1.jpg';
 
-function Image() {
+const Image:React.FC = () => {
   return (
     <>
     <h2>Images</h2>

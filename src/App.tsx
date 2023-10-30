@@ -6,12 +6,11 @@ import "./App.css"
 
 function App() {
   return <>
-      <Message/>
+      <Message name={'manju'} age={22}/>
       <ListGroup/>
       <Images/>
       <Form/>
   </>;
-  
 }
 
 export default App;
